@@ -26,6 +26,7 @@
 #### Representation of Process states:
  ![](docs/images/processStages.jpg)
 #### Output:
- ![](docs/images/output.png)
+ ![](docs/images/output1.png)
+ ![](docs/images/output2.png)
 
 #### _This is a University of Windsor Operating system course assignment (03-60-330). Copying it in future could lead to plagiarism issues. Please do not copy it!!!_
